@@ -10,4 +10,4 @@ WA : +6285348098383
 
 
 
-not finished yet :)
+early version and maybe it can be changed someday
