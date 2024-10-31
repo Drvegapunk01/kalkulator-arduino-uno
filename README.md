@@ -10,4 +10,5 @@ WA : +6285348098383
 
 
 
-early version and maybe it can be changed someday
+simulation using wokwi:
+https://wokwi.com/projects/411922595849478145
